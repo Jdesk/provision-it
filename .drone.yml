@@ -38,7 +38,6 @@ services:
   - mysql
   - memcached
   - redis
-  - mongodb
 notify:
   email:
     recipients:
